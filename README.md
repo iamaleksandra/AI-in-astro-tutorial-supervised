@@ -1,6 +1,6 @@
 # Air Quality Tutorial: Classification and Regression
 
-This repository contains a teaching notebook based on the **Air Quality** dataset.
+This repository contains a teaching notebook based on the **Air Quality** dataset from the UCI Machine Learning Repository (Vito, 2008) https://doi.org/10.24432/C59K5F.
 
 The notebook introduces two common supervised learning tasks using the same real-world dataset:
 
