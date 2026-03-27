@@ -51,4 +51,4 @@ This tutorial was prepared with **Python 3.11**.
 Install the required packages with:
 
 ```bash
-pip install -r requirements_classification_tutorial.txt
+pip install -r requirements_tutorial.txt
